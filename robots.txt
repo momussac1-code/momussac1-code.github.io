@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /payment/
+Disallow: /digital-products/
 
 Sitemap: https://findlocksmiths.uk/sitemap.xml
