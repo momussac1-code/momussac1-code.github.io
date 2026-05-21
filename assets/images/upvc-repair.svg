@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <rect width="800" height="400" fill="#132244"/>
+  <g transform="translate(200,60)">
+    <rect x="100" y="40" width="80" height="160" rx="4" fill="none" stroke="#d4a843" stroke-width="3"/>
+    <circle cx="140" cy="120" r="15" fill="none" stroke="#e8c46a" stroke-width="3"/>
+    <circle cx="140" cy="120" r="4" fill="#e8c46a"/>
+    <rect x="100" y="200" width="80" height="8" rx="2" fill="#6c757d"/>
+    <rect x="95" y="36" width="12" height="10" rx="2" fill="#6c757d"/>
+    <text x="260" y="70" font-family="Arial,sans-serif" font-size="28" fill="#e8c46a" font-weight="700">uPVC Door Lock Repair</text>
+    <text x="260" y="100" font-family="Arial,sans-serif" font-size="16" fill="#adb5bd">Complete uPVC door lock repair guide</text>
+    <text x="260" y="125" font-family="Arial,sans-serif" font-size="14" fill="#6c757d">Euro cylinders • Mechanisms • Handles</text>
+  </g>
+</svg>

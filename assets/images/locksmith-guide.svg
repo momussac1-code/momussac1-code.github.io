@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <rect width="800" height="400" fill="#132244"/>
+  <g transform="translate(200,80)">
+    <text x="200" y="60" font-family="Arial,sans-serif" font-size="32" fill="#e8c46a" font-weight="700" text-anchor="middle">Locksmith Guide</text>
+    <text x="200" y="90" font-family="Arial,sans-serif" font-size="16" fill="#adb5bd" text-anchor="middle">Expert advice for Leeds homeowners</text>
+    <circle cx="100" cy="200" r="50" fill="none" stroke="#d4a843" stroke-width="3"/>
+    <rect x="70" y="230" width="60" height="12" rx="3" fill="#d4a843"/>
+    <rect x="80" y="242" width="40" height="18" rx="3" fill="#d4a843"/>
+    <circle cx="300" cy="200" r="50" fill="none" stroke="#e8c46a" stroke-width="2" opacity="0.6"/>
+    <rect x="270" y="230" width="60" height="12" rx="3" fill="#e8c46a" opacity="0.6"/>
+    <rect x="280" y="242" width="40" height="18" rx="3" fill="#e8c46a" opacity="0.6"/>
+  </g>
+</svg>

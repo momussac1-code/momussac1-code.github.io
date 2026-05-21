@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <rect width="800" height="400" fill="#0f1e38"/>
+  <g transform="translate(250,60)">
+    <path d="M100 180 L100 60 L200 20 L300 60 L300 180 Z" fill="none" stroke="#d4a843" stroke-width="3"/>
+    <rect x="140" y="100" width="120" height="80" rx="4" fill="none" stroke="#e8c46a" stroke-width="2"/>
+    <circle cx="200" cy="140" r="12" fill="none" stroke="#d4a843" stroke-width="2"/>
+    <rect x="180" y="180" width="40" height="30" fill="none" stroke="#d4a843" stroke-width="2"/>
+    <text x="200" y="280" font-family="Arial,sans-serif" font-size="28" fill="#e8c46a" font-weight="700" text-anchor="middle">Home Security</text>
+    <text x="200" y="305" font-family="Arial,sans-serif" font-size="14" fill="#adb5bd" text-anchor="middle">Protect your Leeds home</text>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <rect width="800" height="400" fill="#0f1e38"/>
+  <g transform="translate(200,60)">
+    <rect x="100" y="30" width="15" height="40" fill="#6c757d"/>
+    <circle cx="107" cy="30" r="15" fill="#d4a843" opacity="0.3"/>
+    <circle cx="107" cy="30" r="10" fill="#d4a843" opacity="0.6"/>
+    <circle cx="107" cy="30" r="4" fill="#e8c46a"/>
+    <rect x="90" y="55" width="35" height="8" rx="2" fill="#6c757d"/>
+    <rect x="50" y="100" width="120" height="80" rx="4" fill="none" stroke="#d4a843" stroke-width="2"/>
+    <circle cx="110" cy="140" r="8" fill="#e8c46a" opacity="0.3"/>
+    <circle cx="110" cy="140" r="3" fill="#e74c3c"/>
+    <text x="200" y="240" font-family="Arial,sans-serif" font-size="28" fill="#e8c46a" font-weight="700" text-anchor="middle">CCTV Installation</text>
+    <text x="200" y="265" font-family="Arial,sans-serif" font-size="14" fill="#adb5bd" text-anchor="middle">Complete CCTV installation guide for UK homes</text>
+  </g>
+</svg>
