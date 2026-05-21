@@ -95,8 +95,8 @@ and home improvement sites, then suggest your relevant blog post as a replacemen
 
 ## Priority Actions (This Week)
 
-1. [ ] Claim Google Business Profile
+1. [ ] Claim Google Business Profile (email: momussac1@gmail.com)
 2. [ ] Submit to Yell, Yelp, FreeIndex, Cylex
-3. [ ] Join 3 Leeds Facebook groups
-4. [ ] Pitch 2 guest posts to local blogs
-5. [ ] Set up HARO alerts for "locksmith" + "Leeds"
+3. [ ] Join 3 Leeds Facebook groups (email: momussac1@gmail.com)
+4. [ ] Pitch 2 guest posts to local blogs (email: momussac1@gmail.com)
+5. [ ] Set up HARO alerts for "locksmith" + "Leeds" (email: momussac1@gmail.com)
