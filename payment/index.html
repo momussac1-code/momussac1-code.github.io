@@ -2,7 +2,9 @@
 <html lang="en-GB">
 <head>
 <meta charset="UTF-8">
+<meta name="theme-color" content="#0a1628">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://js.stripe.com">
 <title>Subscribe - Featured Listing | FindLocksmiths.uk</title>
 <meta name="description" content="Subscribe to a featured or premium listing on FindLocksmiths.uk. Get more calls from local customers searching for locksmiths.">
 <link rel="canonical" href="https://findlocksmiths.uk/payment/">
@@ -97,7 +99,8 @@
 
 </div></section>
 
-<div class="footer"><div class="container"><div class="footer-grid"><div><h4>Find Locksmiths</h4><a href="/leeds/">Leeds Locksmiths</a><a href="/blog/">Blog & Advice</a></div><div><h4>For Locksmiths</h4><a href="/for-locksmiths/">List Your Business</a><a href="/payment/">Subscribe</a></div></div><div class="footer-bottom"> 2026 FindLocksmiths.uk</div></div></div>
+<div class="footer"><div class="container"><div class="footer-grid"><div><h4>Find Locksmiths</h4><a href="/leeds/">Leeds Locksmiths</a><a href="/blog/">Blog & Advice</a></div><div><h4>For Locksmiths</h4><a href="/for-locksmiths/">List Your Business</a><a href="/payment/">Subscribe</a></div></div><div class="footer-bottom"> <span id="year">2026</span> FindLocksmiths.uk</div></div></div>
 
+<script>document.getElementById('year').textContent=new Date().getFullYear()</script>
 </body>
 </html>
